@@ -1,15 +1,11 @@
-# Piscine_42
-
-# Piscine_42
-My projects at 42 Rio in my Piscine
 
 # 42 Piscina — Exercícios realizados
 
-> Repositório com exercícios da **Piscina 42** realizados por **Pedro Henrique Dinis Lellis** (`@pedrolellis88`).
+> Repositório com exercícios da **Piscina 42** realizados por **Pedro Henrique Dinis Lellis** (`@pedrolellis88`), login : **pdiniz-l**.
 
 # 42 Piscine — Completed Exercises
 
-> Repository containing the **42 Piscine** exercises completed by **Pedro Henrique Dinis Lellis** (`@pedrolellis88`).
+> Repository containing the **42 Piscine** exercises completed by **Pedro Henrique Dinis Lellis** (`@pedrolellis88`) , login : **pdiniz-l**.
 
 ---
 
