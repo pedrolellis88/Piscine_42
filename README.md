@@ -22,7 +22,6 @@
 - ex09: `Illusions, not tricks...`  
 
 ### Shell01 
-- ex00: `Exam`  
 - ex01: `print_groups`  
 - ex02: `find_sh`  
 - ex03: `count_files`  
